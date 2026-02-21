@@ -1,8 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Bhavana Kavarthapu<br>
 - 📚 I’m currently a junior at the University of Florida, majoring in CS, minoring in Mathematics 
-- 📫 How to reach me bhavana.kavarth@gmail.com OR https://www.linkedin.com/in/bhavana-kavarthapu/
-- 🧚‍♀️ Pronouns: she/her
+<p>I'm a current Computer Science student exploring applying full-stack development and data science to real issues</p>
 
 
 ## 🌐 Socials:
